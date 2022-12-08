@@ -10,5 +10,5 @@ def test_03(a, b):
     return a * b
 
 
-def test_04(a, c):
-    return a * c
+def test_04(a, d):
+    return a * d
